@@ -10,6 +10,12 @@ namespace CadastroMvc.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
+        public DbSet<ProdutoModel> Produtos { get; set; }
+        public DbSet<ItemCarrinho> ItensCarrinho { get; set; }
+        public DbSet<CarrinhoModel> Carrinhos { get; set; }
+        public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<ItemPedido> ItensPedidos { get; set; }
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {

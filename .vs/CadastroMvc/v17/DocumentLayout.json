@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\areas\\identity\\pages\\account\\registerfunc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\areas\\identity\\pages\\account\\registerfunc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\areas\\identity\\pages\\account\\registerfunc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\areas\\identity\\pages\\account\\registerfunc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\areas\\identity\\pages\\account\\registerclint.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\areas\\identity\\pages\\account\\registerclint.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\areas\\identity\\pages\\account\\registerclint.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\areas\\identity\\pages\\account\\registerclint.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|c:\\users\\senai3em\\source\\repos\\cadastromvc\\cadastromvc\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E46F182-0085-456C-80E3-C6408008EDFD}|CadastroMvc\\CadastroMvc.csproj|solutionrelative:cadastromvc\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,100 +26,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteModel.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Models\\ClienteModel.cs",
-              "RelativeDocumentMoniker": "CadastroMvc\\Models\\ClienteModel.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Models\\ClienteModel.cs",
-              "RelativeToolTip": "CadastroMvc\\Models\\ClienteModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:03:07.66Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationUserModel.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Models\\ApplicationUserModel.cs",
-              "RelativeDocumentMoniker": "CadastroMvc\\Models\\ApplicationUserModel.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Models\\ApplicationUserModel.cs",
-              "RelativeToolTip": "CadastroMvc\\Models\\ApplicationUserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:25:01.575Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroMvc\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "CadastroMvc\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:50:42.263Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T12:01:54.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "CadastroMvc\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "CadastroMvc\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T11:53:59.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterFunc.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml",
-              "RelativeDocumentMoniker": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml",
-              "RelativeToolTip": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T11:49:34.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterFunc.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml.cs",
-              "RelativeDocumentMoniker": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml.cs",
-              "RelativeToolTip": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterFunc.cshtml.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAiwE8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:50:11.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegisterClint.cshtml",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml",
-              "RelativeDocumentMoniker": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml",
-              "RelativeToolTip": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAABsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T11:40:51.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterClint.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml.cs",
-              "RelativeDocumentMoniker": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml.cs",
-              "ToolTip": "C:\\Users\\SENAI3EM\\source\\repos\\CadastroMvc\\CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml.cs",
-              "RelativeToolTip": "CadastroMvc\\Areas\\Identity\\Pages\\Account\\RegisterClint.cshtml.cs",
-              "ViewState": "AQIAAK0AAAAAAAAAAAAmwFMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T11:40:48.807Z"
             }
           ]
         }

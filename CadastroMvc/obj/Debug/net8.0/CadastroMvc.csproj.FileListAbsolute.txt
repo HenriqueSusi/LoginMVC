@@ -286,3 +286,4 @@ C:\Users\SENAI3EM\source\repos\CadastroMvc\CadastroMvc\bin\Debug\net8.0\runtimes
 C:\Users\SENAI3EM\source\repos\CadastroMvc\CadastroMvc\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\SENAI3EM\source\repos\CadastroMvc\CadastroMvc\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\SENAI3EM\source\repos\CadastroMvc\CadastroMvc\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\SENAI3EM\source\repos\CadastroMvc\CadastroMvc\obj\Debug\net8.0\CadastroMvc.sourcelink.json
